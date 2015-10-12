@@ -6,7 +6,7 @@ click for views
 
 ![clickimageview.gif](https://github.com/yangqing0314/ClickImageView/master/screenshots/clickimageview.gif)
 
- ![image](https://github.com/ButBueatiful/dotvim/raw/master/screenshots/vim-screenshot.jpg)
+ ![image](https://github.com/yangqing0314/ClickImageView/master/screenshots/image02.jpg)
 
 ## Getting started
 
