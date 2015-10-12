@@ -6,6 +6,8 @@ click for views
 
 ![clickimageview.gif](https://github.com/yangqing0314/ClickImageView/master/screenshots/clickimageview.gif)
 
+ ![image](https://github.com/ButBueatiful/dotvim/raw/master/screenshots/vim-screenshot.jpg)
+
 ## Getting started
 
 In your `build.gradle`:
