@@ -1,10 +1,10 @@
 # ClickImageView
 
-[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-ExplosionField-brightgreen.svg?style=flat)](https://github.com/yangqing0314/ClickImageView/screenshots/clickimageview.gif)
+[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-ExplosionField-brightgreen.svg?style=flat)](https://github.com/yangqing0314/ClickImageView/master/screenshots/clickimageview.gif)
 
 click for views
 
-![clickimageview.gif](https://github.com/yangqing0314/ClickImageView/screenshots/clickimageview.gif)
+![clickimageview.gif](https://github.com/yangqing0314/ClickImageView/master/screenshots/clickimageview.gif)
 
 ## Getting started
 
