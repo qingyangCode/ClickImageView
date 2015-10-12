@@ -4,9 +4,9 @@
 
 click for views
 
-![clickimageview.gif](https://github.com/yangqing0314/ClickImageView/master/screenshots/clickimageview.gif)
+![clickimageview.gif](https://github.com/yangqing0314/ClickImageView/blob/master/screenshots/clickimageview.gif)
 
- ![image](https://github.com/yangqing0314/ClickImageView/master/screenshots/image02.jpg)
+ ![image](https://github.com/yangqing0314/ClickImageView/blob/master/screenshots/image02.jpg)
 
 ## Getting started
 
