@@ -1,10 +1,10 @@
 # ClickImageView
 
-[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-ExplosionField-brightgreen.svg?style=flat)](http://android-arsenal.com/details/1/2554)
+[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-ExplosionField-brightgreen.svg?style=flat)](https://github.com/yangqing0314/ClickImageView/screenshots/clickimageview.gif)
 
-explosive dust effect for views
+click for views
 
-![explosionfield.gif](explosionfield.gif)
+![clickimageview.gif](https://github.com/yangqing0314/ClickImageView/screenshots/clickimageview.gif)
 
 ## Getting started
 
