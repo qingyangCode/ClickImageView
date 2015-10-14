@@ -8,13 +8,13 @@ import android.os.Handler;
 import android.util.AttributeSet;
 import android.view.MotionEvent;
 import android.view.animation.LinearInterpolator;
-import android.widget.ImageView;
+import android.widget.RelativeLayout;
 
 /**
  * Created by on 15/10/12.
  * 转载，大牛分享的源码，在github上没有找到，故上传以便使用
  */
-public class ClickImageView extends ImageView {
+public class ClickZoomView extends RelativeLayout {
 
     private Animator anim1;
     private Animator anim2;
@@ -25,7 +25,7 @@ public class ClickImageView extends ImageView {
 
     private ClickListener listener;
 
-    public ClickImageView(Context context, AttributeSet attrs) {
+    public ClickZoomView(Context context, AttributeSet attrs) {
         super(context, attrs);
         init();
     }

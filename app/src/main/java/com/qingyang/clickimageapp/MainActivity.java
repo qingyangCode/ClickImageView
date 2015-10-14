@@ -31,16 +31,16 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-        ClickImageView iv_1 = (ClickImageView) findViewById(R.id.iv_1);
-        ClickImageView iv_2 = (ClickImageView) findViewById(R.id.iv_2);
+        ClickZoomView iv_1 = (ClickZoomView) findViewById(R.id.layout_1);
+        ClickZoomView iv_2 = (ClickZoomView) findViewById(R.id.layout_2);
 
-        iv_1.setClickListener(new ClickImageView.ClickListener() {
+        iv_1.setClickListener(new ClickZoomView.ClickListener() {
             @Override public void onClick() {
                 Toast.makeText(mContext, "image1 click", Toast.LENGTH_SHORT).show();
             }
         });
 
-        iv_2.setClickListener(new ClickImageView.ClickListener() {
+        iv_2.setClickListener(new ClickZoomView.ClickListener() {
             @Override public void onClick() {
                 Toast.makeText(mContext, "image2 click", Toast.LENGTH_SHORT).show();
             }

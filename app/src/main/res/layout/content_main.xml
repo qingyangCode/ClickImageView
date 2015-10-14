@@ -17,21 +17,51 @@
     <LinearLayout android:layout_width="match_parent"
         android:layout_height="wrap_content" android:orientation="horizontal">
 
-        <com.qingyang.clickimageapp.ClickImageView
-            android:id="@+id/iv_1"
-            android:layout_height="wrap_content"
-            android:layout_width="0dp"
+        <com.qingyang.clickimageapp.ClickZoomView
+            android:id="@+id/layout_1"
             android:layout_weight="1"
+            android:layout_width="0dp"
             android:layout_marginRight="5dp"
-            android:src="@mipmap/image01"/>
+            android:layout_height="wrap_content">
+            <ImageView
+                android:id="@+id/iv_1"
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:src="@mipmap/image01"/>
 
-        <com.qingyang.clickimageapp.ClickImageView
-            android:id="@+id/iv_2"
-            android:layout_height="wrap_content"
-            android:layout_width="0dp"
-            android:layout_marginLeft="5dp"
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="imageView 01"
+                android:textSize="19dp"
+                android:textColor="#FFFF00"
+                android:layout_centerInParent="true"/>
+
+        </com.qingyang.clickimageapp.ClickZoomView>
+
+        <com.qingyang.clickimageapp.ClickZoomView
+            android:id="@+id/layout_2"
             android:layout_weight="1"
-            android:src="@mipmap/image02"/>
+            android:layout_width="0dp"
+            android:layout_marginRight="5dp"
+            android:layout_height="wrap_content">
+            <ImageView
+                android:id="@+id/iv_2"
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:src="@mipmap/image02"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="imageView 02"
+                android:textSize="19dp"
+                android:textColor="#FFFF00"
+                android:layout_centerInParent="true"/>
+
+        </com.qingyang.clickimageapp.ClickZoomView>
+
+
     </LinearLayout>
 
 
